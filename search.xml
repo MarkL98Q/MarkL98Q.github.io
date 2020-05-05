@@ -2,13 +2,13 @@
 <search>
   <entry>
     <title>入门篇-Druid</title>
-    <url>//article/2020/05/05/%E5%85%A5%E9%97%A8%E7%AF%87-Druid/</url>
+    <url>//2020/05/05/%E5%85%A5%E9%97%A8%E7%AF%87-Druid/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1>入门篇-Druid</h1>
 <p>​	频繁的建立连接和释放连接是非常消耗资源的，因此我们需要将建立的连接保存起来以便下次直接使用，保存通常以连接池的方式保存，当某个线程需要一个JDBC连接时就去池中获取一个，连接的管理完全交由连接池进行。</p>
 <p>​	Druid为阿里巴巴的数据源，（数据库连接池），集合了c3p0、dbcp、proxool等连接池的优点，还加入了日志监控，有效的监控DB池连接和SQL的执行情况😗。</p>
 <a id="more"></a>
 
-    <div id="aplayer-IpxLTYNi" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-TuToKxPb" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="2574880937" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86" data-listfolded="true" data-order="random"
     ></div>
 <h2 id="基本使用">基本使用</h2>
