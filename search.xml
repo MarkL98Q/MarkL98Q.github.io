@@ -8,7 +8,7 @@
 <p>​	Druid为阿里巴巴的数据源，（数据库连接池），集合了c3p0、dbcp、proxool等连接池的优点，还加入了日志监控，有效的监控DB池连接和SQL的执行情况😗。</p>
 <a id="more"></a>
 
-    <div id="aplayer-HcOkRnYt" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-AYrppXbI" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="2574880937" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86" data-listfolded="true" data-order="random"
     ></div>
 <h2 id="基本使用">基本使用</h2>
@@ -84,6 +84,9 @@
 <h2 id="其它配置">其它配置</h2>
 <p>​	Druid的配置是很多的，可以到DruidDataSource中去找，包括线程复用等等，有时间在这里列举一下。</p>
 ]]></content>
+      <categories>
+        <category>入门篇</category>
+      </categories>
       <tags>
         <tag>入门篇</tag>
         <tag>Druid</tag>
